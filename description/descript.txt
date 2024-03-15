@@ -1,0 +1,5 @@
+My project name is finance app. From this app a user will be able to create account which a user will be able to save and borrow some amount of money.
+upon saving there will  be interest which will be annualy and the rate will base on accounting systems.
+upon borrowing also will some interest when rteturning the money.
+users data will  be safely kept and a user will be authenticated upon logging.
+just to mention a few more expalnations are coming.
